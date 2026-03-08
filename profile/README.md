@@ -12,10 +12,10 @@ AI can control Jira, GitHub, Slack — but what about your oscilloscope, Arduino
 | Server | Hardware | Status |
 |--------|----------|--------|
 | [arduino-mcp-server](https://github.com/hardware-mcp/arduino-mcp-server) | Arduino / arduino-cli | ✅ Stable |
-| rpi-mcp-server | Raspberry Pi GPIO, I2C, SPI | 🚧 Coming soon |
-| oscilloscope-mcp | Keysight, Rigol, Tektronix (SCPI/VISA) | 🚧 Coming soon |
-| plc-mcp-server | Industrial PLCs / Ladder Logic | 🚧 Coming soon |
-| power-supply-mcp | Programmable bench PSUs | 🚧 Coming soon |
+| scpi-mcp-server | Oscilloscopes, PSUs, signal generators (Rigol, Keysight, Tektronix) | 🚧 Coming soon |
+| jtag-mcp-server | Embedded targets via JTAG/SWD (OpenOCD, J-Link, CMSIS-DAP) | 🚧 Coming soon |
+| canbus-mcp-server | CAN bus — automotive and industrial networks | 🚧 Coming soon |
+| modbus-mcp-server | Industrial PLCs / Modbus RTU & TCP | 🚧 Coming soon |
 
 ---
 
