@@ -1,4 +1,4 @@
-# hardware-mcp
+# Hardware MCP
 
 > Open-source MCP servers bridging AI to physical hardware.
 
